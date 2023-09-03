@@ -7,7 +7,7 @@ The Music Genre Predictor is a machine learning model developed using decision t
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Contributing](#contribution)
+- [Contribution](#contribution)
 - [License](#license)
 
 ## Introduction
